@@ -3,5 +3,7 @@
 
 See beautiful Mt.Fuji:
 
-![Arakurayama](./img/arakurayama.jpg)
+![Arakurayama Spring](./img/arakurayama.jpg)
 ![Takabocchi](./img/takabocchi.jpg)
+![Saiko](./img/saiko.jpg)
+![Arakurayama Winter](./img/snow_arakurayama.jpg)
